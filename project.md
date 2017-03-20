@@ -1,6 +1,8 @@
 # CSC 303 - Spring 2017 - Final Project
 NOTE: Credit for the original file this was based on goes to [@ChadKillingsworth](https://github.com/ChadKillingsworth).
 
+This is vandalism!
+
 ## Due Dates
 The project is worth 40% of your total grade. Completing it is required. To prevent
 procrastination and to assist with lowering end-of-semester stress, there are weekly checkpoints
